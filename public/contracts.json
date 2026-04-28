@@ -1,0 +1,10 @@
+{
+  "level2": {
+    "network": "testnet",
+    "contractId": "CCGVDV4DHQMFFDR2QB5KY6EIP3JRKDVU7GYNWMJYUKJWZ2BSDG3JIU6I",
+    "wasmUploadHash": "9cdde8fa639b1c034a2b7d2101ef29025a01c45c20ae2f4fb5e217e1c3424896",
+    "deployHash": "9cdde8fa639b1c034a2b7d2101ef29025a01c45c20ae2f4fb5e217e1c3424896",
+    "payMerchantHash": "f99d607f887667269dafb5d1be6d8926ca2d528518350177e04aac76a0d7a59c",
+    "paymentId": 1
+  }
+}

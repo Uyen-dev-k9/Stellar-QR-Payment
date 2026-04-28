@@ -1,0 +1,14 @@
+C:\Users\PC\Stellar QR Payment\contracts\qr_token\target\release\deps\serde-8212631d17885726.d: C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\PC\Stellar\ QR\ Payment\contracts\qr_token\target\release\build\serde-d78dc53213ebd1bb\out/private.rs
+
+C:\Users\PC\Stellar QR Payment\contracts\qr_token\target\release\deps\libserde-8212631d17885726.rlib: C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\PC\Stellar\ QR\ Payment\contracts\qr_token\target\release\build\serde-d78dc53213ebd1bb\out/private.rs
+
+C:\Users\PC\Stellar QR Payment\contracts\qr_token\target\release\deps\libserde-8212631d17885726.rmeta: C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\PC\Stellar\ QR\ Payment\contracts\qr_token\target\release\build\serde-d78dc53213ebd1bb\out/private.rs
+
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\PC\Stellar\ QR\ Payment\contracts\qr_token\target\release\build\serde-d78dc53213ebd1bb\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\PC\\Stellar QR Payment\\contracts\\qr_token\\target\\release\\build\\serde-d78dc53213ebd1bb\\out
